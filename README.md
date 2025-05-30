@@ -1,2 +1,3 @@
-# Verdiconics-2025
-Its all about my Startup Verdiconics= green +electronics
+# Verdiconics Portfolio
+
+A professional portfolio and business vision platform for Shekar.
